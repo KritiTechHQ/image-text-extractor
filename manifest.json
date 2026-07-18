@@ -2,10 +2,10 @@
   "manifest_version": 3,
   "name": "Kriti Extract OCR",
   "version": "1.0",
-  "description": "Extract text from any image instantly. Built by KritiTechHQ.",
+  "author": "Yashas (KritiTechHQ)",
+  "description": "Extract text from your active screen instantly. Built by KritiTechHQ.",
   "permissions": [
-    "activeTab",
-    "scripting"
+    "activeTab"
   ],
   "action": {
     "default_popup": "popup.html"
